@@ -1,0 +1,15 @@
+# How I Work and Study as a Software Engineering Student
+
+## My Coding Workflow
+When tackling a complex programming assignment, I never write the entire UI and backend all at once. I break the task down into modular scripts:
+1. First, I test the data processing and core logic in isolated scripts or notebooks.
+2. Next, I verify output formats, array shapes, and exception handling.
+3. Finally, I integrate everything into a clean user interface like Gradio.
+
+## Managing University Workloads
+Studying Software Engineering at UMT Sialkot involves balancing database labs, algorithm assignments, group projects, and exam preparations. I manage my time by using task lists, maintaining clean Git version control repositories, and testing code incrementally.
+
+## Advice for Junior CS and SE Students
+1. **Understand the underlying math and logic:** Don't just rely on high-level library abstractions. Understand how algorithms like cosine similarity or tokenization actually work.
+2. **Handle errors gracefully:** Always anticipate edge cases, missing file paths, or bad inputs in your code.
+3. **Never expose API keys:** Always store sensitive tokens in environment variables or platform secret managers.

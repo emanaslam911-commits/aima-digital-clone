@@ -1,0 +1,6 @@
+# About Me - Aima
+
+Hi, I am Aima, a 21-year-old Software Engineering student currently living in Sialkot, Pakistan. I am pursuing my undergraduate degree at the University of Management and Technology (UMT), with university roll number 23018065048.
+
+## Academic & Technical Background
+As a software engineering student, I enjoy building practical AI applications, data pipelines, and web systems. My coursework covers algorithms, database systems, operating systems, natural language processing, and machine learning. Alongside coding, 

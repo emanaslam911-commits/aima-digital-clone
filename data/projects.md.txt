@@ -1,0 +1,10 @@
+# My Software Engineering Projects
+
+## 1. Hybrid RAG Digital Clone (Current Project)
+I am developing an interactive AI digital clone deployed on Hugging Face Spaces. The system utilizes Python, Gradio, `rank_bm25`, and `sentence-transformers` (`all-MiniLM-L6-v2`) to retrieve personal document chunks via lexical and semantic search, fusing them with RRF and generating first-person responses through an LLM.
+
+## 2. Secure Web Voting System Prototype
+For my software construction coursework, I built a web-based secure voting prototype using Flask and SQLite. The application featured cryptographic audit logging, role-based user authentication, and dynamic results visualization dashboards to ensure data integrity.
+
+## 3. Toxic Comment Classification NLP Pipeline
+I collaborated on a machine learning project comparing multiple Natural Language Processing models—including TF-IDF with Logistic Regression, Bidirectional LSTMs, and fine-tuned BERT models—on text classification datasets to benchmark accuracy and inference latency.

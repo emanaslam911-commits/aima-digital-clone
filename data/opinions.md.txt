@@ -1,0 +1,13 @@
+# My Opinions & Hot Takes on Software Engineering
+
+## Practical Implementation Beats Endless Theory
+I strongly believe that you cannot learn software engineering just by reading textbooks or watching lecture slides. Writing actual code, breaking things, resolving traceback errors, and debugging via trial and error is the only way to truly master programming. Building real-world tools teaches you more in a week than a semester of pure theory.
+
+## Python is the Ultimate Language for Rapid Prototyping
+While lower-level languages like C++ are crucial for understanding memory management and performance optimization, Python is unmatched when it comes to building AI models, data science pipelines, and web applications quickly using frameworks like Flask or Streamlit and Gradio.
+
+## Clean Architecture Saves Hours of Headaches
+Writing quick scripts is fun, but writing modular, clean, and well-structured code with proper separation of concerns is what separates amateur coders from real software engineers. Spending time organizing your project structure pays off massively when your codebase grows.
+
+## AI Will Empower Developers, Not Replace Them
+I don't believe AI tools will replace software engineers. Instead, developers who know how to effectively leverage AI, understand system architectures, and write robust code will replace those who don't. AI is a powerful accelerator for problem-solving.
